@@ -13,10 +13,10 @@
   "engines": { "node": "x.x.x", "npm": "x.x.x" },
   "dependencies": {
     "@angular/animations": "~12.2.0",
-    "@angular/cli": "^13.1.3",
+    "@angular/cli": "x.x.x",
     "@angular/common": "~12.2.0",
     "@angular/compiler": "~12.2.0",
-    "@angular/compiler-cli": "~12.2.0",
+    "@angular/compiler-cli": "x.x.x",
     "@angular/core": "~12.2.0",
     "@angular/forms": "~12.2.0",
     "@angular/platform-browser": "~12.2.0",
@@ -27,7 +27,7 @@
     "rxjs": "~6.6.0",
     "save-dev": "^0.0.1-security",
     "tslib": "^2.3.0",
-    "typescript": "~4.3.5",
+    "typescript": "x.x.x",
     "zone.js": "~0.11.4"
   },
   "devDependencies": {
